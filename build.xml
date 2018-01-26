@@ -1,2 +1,2 @@
 <project default="compile">
-  <property name="src.java.dir" location=".src/
+  <property name="src.java.dir" 
