@@ -1,1 +1,2 @@
-
+<project default="compile">
+  <property name="src.java.dir" location=".src/
